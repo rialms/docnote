@@ -1,2 +1,2 @@
 # note
-http://rialms.github.io/notes
+http://rialms.github.io/docnote
